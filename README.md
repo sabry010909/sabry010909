@@ -1,17 +1,17 @@
 <div align="center">
-  <img height="150" src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://github.com/sabry010909/sabry010909/blob/main/my_photo.jpeg?raw=true)"  />
+  <img src="profile.jpg" width="160" height="160" style="border-radius: 50%;" alt="Sabry Reda">
+  <h1> Sabry Reda Radwan </h1>
+  <p><b>Computer Engineering Student | Full-Stack .NET Developer | Web Automation Expert</b></p>
+  
+  <a href="https://www.linkedin.com/in/sabry-radwan-058943325">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:sabryradwan111@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </div>
 
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/sabry-radwan-058943325" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
-  <a href="sabryradwan111@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
+<br />
   <a href="https://github.com/sabry010909" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GitLab&logo=gitlab&label=&color=FC6D26&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gitlab logo"  />
   </a>
